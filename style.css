@@ -1,7 +1,9 @@
 /* style.css */
 
 h1 {
-    font-size: 48px;
+    color: white;
+    font-size: 60px;
+    background-color: lightpink;
 }
 
 img {
